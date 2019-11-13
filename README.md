@@ -37,8 +37,8 @@
     The turtlebot should move along when it sees the object. When it sees the object disappear from the camera image, it will      turn over to search its goal position.
     
 # [TURTLEBOT3 RPi2] 
-Run RVIZ
  # [REMOTE PC]
+Run RVIZ
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 # [REMOTE PC]
 rosrun auntonomous_pkg goal_position.py
