@@ -4,10 +4,6 @@
 
     http://emanual.robotis.com/docs/en/platform/turtlebot3/appendix_raspi_cam/
 
-    Then, run
-
-    git clone https://github.com/ros-teleop/teleop_twist_keyboard.git
-
 # Steps
 
    # [REMOTE PC]
